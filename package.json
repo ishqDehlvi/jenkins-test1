@@ -1,0 +1,21 @@
+{
+  "name": "jenkins-test1",
+  "version": "0.0.1",
+  "description": "jenkins test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishqDehlvi/jenkins-test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishqDehlvi/jenkins-test1/issues"
+  },
+  "homepage": "https://github.com/ishqDehlvi/jenkins-test1#readme"
+}
