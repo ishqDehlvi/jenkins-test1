@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.status(200).json("Hello duniya");
+  res.status(200).json("tum to darasal mere habeeb ho");
 });
 
 module.exports = app.listen(process.env.PORT || 4000, () =>
