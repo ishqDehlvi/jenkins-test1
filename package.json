@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "test": "jest"
-
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ishqDehlvi/jenkins-test1/issues"
   },
-  "homepage": "https://github.com/ishqDehlvi/jenkins-test1#readme"
+  "homepage": "https://github.com/ishqDehlvi/jenkins-test1#readme",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "supertest": "^6.1.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
